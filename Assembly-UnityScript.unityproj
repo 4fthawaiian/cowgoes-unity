@@ -52,7 +52,6 @@
      <Compile Include="Assets\CoherentUI\Samples\Standard Assets\Character Controllers\Sources\Scripts\PlatformInputController.js" />
      <Compile Include="Assets\CoherentUI\Samples\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js" />
      <Compile Include="Assets\CoherentUI\Samples\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" />
-     <Compile Include="Assets\JSON Tests\UnityScript\Test_UnityScript.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FirstPersonControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FollowTransform.js" />
@@ -67,6 +66,7 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\tapcontrol.js" />
      <Compile Include="Assets\execution_order.js" />
      <Compile Include="Assets\jsontest.js" />
+     <Compile Include="Assets\webview_signal_handler.js" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
@@ -77,7 +77,6 @@
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
-     <None Include="Assets\JSON Tests\TroubleShoot.txt" />
      <None Include="Assets\Standard Assets\Shaders\CoherentUI\TransparentDiffuseIgnoreZ.shader" />
      <None Include="Assets\CoherentUI\Copyright.txt" />
      <None Include="Assets\CoherentUI\Samples\Scenes\Sample06_Oculus\Readme.txt" />

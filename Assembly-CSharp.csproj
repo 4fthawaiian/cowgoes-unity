@@ -67,7 +67,6 @@
      <Compile Include="Assets\CoherentUI\Samples\Scenes\Sample05_ArchiveResource\tar_cs\UsTarHeader.cs" />
      <Compile Include="Assets\CoherentUI\Samples\Scenes\Sample_MobileInput\BoxScript.cs" />
      <Compile Include="Assets\CoherentUI\Samples\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
-     <Compile Include="Assets\JSON Tests\CSharp\Test_CSharp.cs" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
@@ -78,7 +77,6 @@
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
-     <None Include="Assets\JSON Tests\TroubleShoot.txt" />
      <None Include="Assets\Standard Assets\Shaders\CoherentUI\TransparentDiffuseIgnoreZ.shader" />
      <None Include="Assets\CoherentUI\Copyright.txt" />
      <None Include="Assets\CoherentUI\Samples\Scenes\Sample06_Oculus\Readme.txt" />
