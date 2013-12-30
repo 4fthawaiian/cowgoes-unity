@@ -1,0 +1,19 @@
+-1 07:33:33.629137 I | Initializing Coherent UI ver. 1.6.0.0
+-1 07:33:33.641292 I | CGL device used in client composition: 16918030
+-1 07:33:34.151134 I | PID: 64461 | -1 07:33:33.929640 Staring Coherent UI Host ver. 1.6.0.0
+-1 07:33:34.151221 I | PID: 64461 | -1 07:33:33.934751 Detected OS: Mac OS X 10.9.0
+-1 07:33:34.151241 I | PID: 64461 | -1 07:33:34.100678 [64461:1287:INFO:UIContentClient.cpp(73)] GPU info collected in host process: 
+-1 07:33:34.151261 I | PID: 64461 | -1 07:33:34.100696 [64461:1287:INFO:UIContentClient.cpp(78)] Main GPU vendor 4318 device 2147
+-1 07:33:34.234783 I | Coherent UI system initialized successfully
+-1 07:33:34.269039 W | View to https://www.coherent-labs.com:3000/
+-1 07:33:34.274235 I | View created successfully with id 0
+-1 07:33:34.328913 I | PID: 64461 | -1 07:33:34.271750 Navigating view 0 to https://www.coherent-labs.com:3000/
+-1 07:33:34.328983 I | PID: 64461 | -1 07:33:34.327751 [64461:1287:INFO:compositing_iosurface_mac_coherent.mm(357)] Device used for IOSurface composition: 16918030
+-1 07:33:34.426788 I | PID: 64461 | -1 07:33:34.408943 [64464:1287:INFO:renderer_main.cc(215)] Running without renderer sandbox
+-1 07:33:34.655858 I | PID: 64461 | -1 07:33:34.653787 [64461:1287:INFO:(0)] GPU info collected in gpu-process process: 
+-1 07:33:34.655912 I | PID: 64461 | -1 07:33:34.653859 [64461:1287:INFO:(0)] Main GPU vendor 4318 device 2147
+-1 07:33:34.671890 I | PID: 64461 | -1 07:33:34.669064 [64461:1287:INFO:(0)] Forcing host processes on discrete GPU
+-1 07:33:34.722853 I | PID: 64461 | -1 07:33:34.704949 [64461:1287:INFO:(0)] Created virtual GL context.
+-1 07:33:57.120278 I | Removing view 0
+-1 07:33:57.125497 I | Uninitializing Coherent UI
+-1 07:33:57.230283 I | Coherent UI uninitialized successfully
